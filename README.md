@@ -10,5 +10,10 @@ Blog Description
 4. Add/edit/delete Blog based on user permission
 
 #FrontEnd
+
 1.User Login
 2.Display blog of that user
+
+
+For Test application of front end and backend view by screenshorts: 
+https://github.com/devnagi/blog/tree/master/screenshorts
