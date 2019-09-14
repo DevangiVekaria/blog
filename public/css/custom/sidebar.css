@@ -1,0 +1,23 @@
+.sidenav {
+    z-index: 1;
+
+    overflow-x: hidden;
+    padding-top: 20px;
+}
+
+.sidenav a {
+    text-decoration: none;
+    color: #818181;
+    display: block;
+    text-align: right;
+    padding: 5px 30px;
+    border-right: 1px solid;
+}
+
+.sidenav a:hover {
+    color: #000000;
+}
+
+.sidenav  a.active {
+    color: #000000;
+}
